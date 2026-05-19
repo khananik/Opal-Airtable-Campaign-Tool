@@ -1,6 +1,6 @@
 # Opal Airtable Campaign Tool
 
-A FastAPI-based [Opal](https://www.optimizely.com/products/opal/) tool that creates campaign records in an Airtable base. Built using the [Opal Tools SDK](https://pypi.org/project/opal-tools-sdk/), this server exposes a single tool, `create_airtable_record`, which can be called by Opal to log marketing campaign details directly into Airtable.
+A FastAPI-based [Opal](https://www.optimizely.com/ai/) tool that creates campaign records in an Airtable base. Built using the [Opal Tools SDK](https://pypi.org/project/optimizely-opal.opal-tools-sdk/), this server exposes a single tool, `create_airtable_record`, which can be called by Opal to log marketing campaign details directly into Airtable.
 
 ## Features
 
